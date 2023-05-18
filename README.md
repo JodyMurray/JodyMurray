@@ -15,6 +15,12 @@ My name is Jody, I'm a Junior Full Stack Software Developer, recently graduated 
 
 ➜ How to reach me: jodyamm@hotmail.com.
 
+<br>
+<br>
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/jody-murray-4b6818234/)
+
+
 <hr/>
 
 
